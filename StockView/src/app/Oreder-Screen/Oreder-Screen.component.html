@@ -1,0 +1,26 @@
+<div class="container mt-5">
+  <table class="table table-striped">
+    <thead class="thead-inverse">
+      <tr>
+        <th>Person Name</th>
+        <th>Stock</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Commission</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let order of orders">
+        <td style="width: auto">{{order.personName}}</td>
+        <td style="width: auto">{{order.name}}</td>
+        <td style="width: auto">{{order.price}}</td>
+        <td style="width: auto">{{order.quantity}}</td>
+        <td style="width: auto">{{order.commission}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="d-flex justify-content-between pagination-d p-2 ">
+  <ngb-pagination [maxSize]="5" [rotate]="true" [ellipses]="false" [boundaryLinks]="true"  [collectionSize]="this.collection" [(page)]="page" [pageSize]="pageSize">
+  </ngb-pagination>
+</div>

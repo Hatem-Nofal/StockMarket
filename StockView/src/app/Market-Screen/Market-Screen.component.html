@@ -1,0 +1,23 @@
+<div class="container mt-5">
+<table class="table table-striped">
+  <thead class="thead-inverse">
+    <tr>
+
+      <th style="width: auto" scope="col">Name</th>
+      <th style="width: auto" scope="col">Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let stock of Stocks ">
+      <td style="width: auto">{{stock.name}}</td>
+      <td style="width: auto">{{stock.price}}</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+<div  *ngIf="isDataLoaded" class="d-flex justify-content-between pagination-d p-2 ">
+  <ngb-pagination   [collectionSize]="collection" [(page)]="page" [pageSize]="pageSize">
+  </ngb-pagination>
+</div>
+

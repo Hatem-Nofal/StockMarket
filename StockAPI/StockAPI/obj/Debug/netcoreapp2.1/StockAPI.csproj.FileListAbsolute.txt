@@ -1,0 +1,14 @@
+C:\Work\TaskProject\StockAPI\StockAPI\bin\Debug\netcoreapp2.1\StockAPI.deps.json
+C:\Work\TaskProject\StockAPI\StockAPI\bin\Debug\netcoreapp2.1\StockAPI.runtimeconfig.json
+C:\Work\TaskProject\StockAPI\StockAPI\bin\Debug\netcoreapp2.1\StockAPI.runtimeconfig.dev.json
+C:\Work\TaskProject\StockAPI\StockAPI\bin\Debug\netcoreapp2.1\StockAPI.dll
+C:\Work\TaskProject\StockAPI\StockAPI\bin\Debug\netcoreapp2.1\StockAPI.pdb
+C:\Work\TaskProject\StockAPI\StockAPI\obj\Debug\netcoreapp2.1\StockAPI.csproj.CoreCompileInputs.cache
+C:\Work\TaskProject\StockAPI\StockAPI\obj\Debug\netcoreapp2.1\StockAPI.RazorAssemblyInfo.cache
+C:\Work\TaskProject\StockAPI\StockAPI\obj\Debug\netcoreapp2.1\StockAPI.RazorAssemblyInfo.cs
+C:\Work\TaskProject\StockAPI\StockAPI\obj\Debug\netcoreapp2.1\StockAPI.AssemblyInfoInputs.cache
+C:\Work\TaskProject\StockAPI\StockAPI\obj\Debug\netcoreapp2.1\StockAPI.AssemblyInfo.cs
+C:\Work\TaskProject\StockAPI\StockAPI\obj\Debug\netcoreapp2.1\StockAPI.RazorTargetAssemblyInfo.cache
+C:\Work\TaskProject\StockAPI\StockAPI\obj\Debug\netcoreapp2.1\StockAPI.dll
+C:\Work\TaskProject\StockAPI\StockAPI\obj\Debug\netcoreapp2.1\StockAPI.pdb
+C:\Work\TaskProject\StockAPI\StockAPI\obj\Debug\netcoreapp2.1\StockAPI.csprojAssemblyReference.cache
